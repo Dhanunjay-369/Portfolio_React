@@ -1,0 +1,51 @@
+.welcome{
+    height:60px;
+    width:100%;
+    border:1px solid blue;
+}
+.title{
+    text-align:center;
+    color:crimson;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight:500;
+    background-color:palegreen;
+}
+.navsection{
+    height:80px;
+    width:100%;
+    background-color:blueviolet;
+    text-align:center;
+    border:1px solid green;
+}
+.navbar{
+    height:fit-content;
+    width:fit-content;
+    padding:5px;
+    margin:10px auto 5px 480px;
+    /* border:1px solid yellow; */
+}
+a{
+    padding-right:30px;
+    font-size:30px;
+}
+.info{
+    height:60vh;
+    width:100%;
+    padding:50px;
+    background-color: wheat;
+}
+.tab{
+    height:fit-content;
+    width:fit-content;
+    /* border:2px solid magenta; */
+    margin:50px auto auto 300px;
+    padding:5px;
+}
+table{
+    border-collapse:collapse;
+}
+table,th,tr,td{
+    /* border:1px solid aquamarine; */
+    padding:5px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

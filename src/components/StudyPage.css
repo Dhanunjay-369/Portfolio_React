@@ -1,0 +1,63 @@
+.welcome{
+    height:60px;
+    width:100%;
+    border:1px solid blue;
+}
+.title{
+    text-align:center;
+    color:crimson;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight:500;
+    background-color:palegreen;
+}
+.navsection{
+    height:80px;
+    width:100%;
+    background-color:blueviolet;
+    text-align:center;
+    border:1px solid green;
+}
+.navbar{
+    height:fit-content;
+    width:fit-content;
+    padding:5px;
+    margin:10px auto 5px 480px;
+    /* border:1px solid yellow; */
+}
+a{
+    padding-right:30px;
+    font-size:30px;
+}
+.box{
+    height:60vh;
+    width:100%;
+    padding:50px;
+    background-color: yellowgreen;
+}
+.school{
+    height:fit-content;
+    width:400px;
+    margin:5px auto auto 450px; 
+    border-radius:5px;
+    padding:5px;
+    border:1px solid red;
+    background-color: chocolate;
+}
+.inter{
+    height:fit-content;
+    width:400px;
+    margin:15px auto auto 450px; 
+    border-radius:5px;
+    padding:5px;
+    border:1px solid red;
+    background-color: cadetblue;
+}
+.Btech{
+    height:fit-content;
+    width:400px;
+    margin:15px auto auto 450px; 
+    border-radius:5px;
+    padding:5px;
+    border:1px solid red;
+    background-color: teal;
+}

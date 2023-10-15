@@ -1,0 +1,79 @@
+.cont{
+    height:max-content;
+    width:100%;
+    border:5px solid yellow;
+}
+.welcome{
+    height:60px;
+    width:100%;
+    border:1px solid blue;
+}
+.title{
+    text-align:center;
+    color:crimson;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight:500;
+    background-color:palegreen;
+}
+.navsection{
+    height:80px;
+    width:100%;
+    background-color:blueviolet;
+    text-align:center;
+    border:1px solid green;
+}
+.navbar{
+    height:fit-content;
+    width:fit-content;
+    padding:5px;
+    margin:10px auto 5px 480px;
+    /* border:1px solid yellow; */
+}
+a{
+    padding-right:30px;
+    font-size:30px;
+}
+/* .icon{
+    height:;
+    width:40px;
+    border:1px dashed black;
+} */
+.content{
+    height:50vh;
+    width:100%;
+    margin-top:0px;
+    padding:50px;
+    background-color:burlywood;
+}
+.C1{
+    height:fit-content;
+    width:500px;
+    /* margin-top:40px; */
+    margin:50px auto auto 440px; 
+    font-family: Arial;
+    font-size:larger;
+    font-weight:500;
+    text-align:center;
+    padding:10px;
+    border-radius:10px;
+    border:1px solid Orange;
+    background-color: antiquewhite;
+}
+.footer{
+    height:100px;
+    width:100%;
+    border:5px solid violet;
+    display:flex;
+}
+.socialMedia{
+    display:flex;
+    text-align: center;
+}
+.contacts{
+    text-align:center;
+}
+table{
+    border-collapse:collapse;
+    margin-left:80px;
+    margin-right:100px;
+}
